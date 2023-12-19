@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace MyFinances.Core.Response
 {
     public class PagedResponse<T> : Response

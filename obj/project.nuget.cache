@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SQtFk64n94WTY0OQdYBuKIvLdF9cYxSX+N2w5veo3S+xlnXDqYX/vUpP0XMCGTkPBjUEhX0CM3n1WKVZ8wAwFg==",
+  "dgSpecHash": "NNZbjnr74HRUTSLcR3QiiZtmqipA8lcyn4DUWFG66dusPgi0le4mvBlJmWgyUrxE22VwQiw9zkETBkpVslovnw==",
   "success": true,
   "projectFilePath": "D:\\Y\\repos\\_AkademiaDotNET\\Tydz11_cw1_MyFinances\\MyFinances.Core\\MyFinances.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\j.zieba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\j.zieba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
